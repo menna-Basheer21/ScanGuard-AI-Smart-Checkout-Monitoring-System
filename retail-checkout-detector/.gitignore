@@ -1,0 +1,14 @@
+# Data / generated artifacts
+dataset/
+synth_dataset/
+runs/
+*.pt
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
